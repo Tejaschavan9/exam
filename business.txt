@@ -1,0 +1,32 @@
+user 
+
+loginpage 
+user id 
+password
+
+ or sign in page
+email
+id 
+name
+password
+
+employees
+project manager
+delivery manager
+stakeholder
+
+project manager
+id  pk
+name 
+salary
+
+delivery
+id pk
+name 
+salary
+
+stakeholder
+id pk
+name 
+project progress condition
+

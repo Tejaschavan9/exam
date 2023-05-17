@@ -1,0 +1,18 @@
+title:-  online project management
+
+objective:-to manage project in organization and to use resources and time effectively 
+
+functional requirement :-if all the staff are in remote areas then to connect all staff in an organization from their remote working places and they dont have to come to office , 
+:-throug this tool they can they can commiunicate with each other share there data and report their working process , 
+:-manager can assign task as per employee(resources) AVAILABLE 
+:-employe can update dheir work to manager
+:-stake holders can see the progess of organization if it is working profitablely 
+
+non functional requirement
+:-easy to use
+:-no bugs
+:-efficient
+:-operate on low network area ,
+
+
+ 
